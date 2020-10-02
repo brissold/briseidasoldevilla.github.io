@@ -14,5 +14,5 @@ YelpCamp
 <img src="images/logged_inVal.JPG" >
 <h3>Campground Comments Page</h3>
 <img src="images/newComment.JPG" >
-<h3>By Campground Edit Restrictions</h3>
+<h3>Campground Edit Restrictions</h3>
 <img src="images/cannoteditOnenotMine.JPG" >
