@@ -3,7 +3,7 @@ YelpCamp
 <h2>Screenshots</h2>
 <h3>Welcome page</h3>
 <img src="images/welcome_1.JPG" >
-<img src="images/welcome_2" >
+<img src="images/welcome_2.JPG" >
 <h3>All Campgrounds</h3>
 <img src="images/AllCampgrounds.JPG" >
 <h3>Campground Id View</h3>
